@@ -1,5 +1,5 @@
 This repository contains code for the following paper:
-> [Automatically Auditing Large Language Models ](https://arxiv.org/abs/2303.04381)
+> [Automatically Auditing Large Language Models via Discrete Optimization](https://arxiv.org/abs/2303.04381)
 >
 > Erik Jones, Anca Dragan, Aditi Raghunathan, and Jacob Steinhardt 
 
